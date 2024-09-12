@@ -1,0 +1,25 @@
+# Password Manager
+
+## Overview
+
+The Password Manager is a web application designed to securely store and manage your passwords. It provides a user-friendly interface to add, view, and decrypt passwords. This application uses MongoDB for data storage, React for the frontend, and Node.js for the backend.
+
+## Technologies Used
+
+- **MongoDB**: NoSQL database used for storing passwords and related information.
+- **React**: JavaScript library used for building the user interface.
+- **Node.js**: JavaScript runtime used for the server-side logic and handling API requests.
+
+## Features
+
+- **Add Passwords**: Allows users to securely add passwords with associated titles.
+- **View Passwords**: Display a list of saved passwords with titles.
+- **Decrypt Passwords**: Decrypts and displays the actual password when requested.
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/leul71/password-manager.git
+cd password-manager
